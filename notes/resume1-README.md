@@ -1,6 +1,6 @@
 # 🌩️ Estudos de Computação em Nuvem - Microsoft Azure
 
-> **Bootcamp DIO:** Estudos sobre Microsoft Azure e Computação em Nuvem
+**Bootcamp DIO:** Estudos sobre Microsoft Azure e Computação em Nuvem
 
 [![Azure](https://img.shields.io/badge/Microsoft-Azure-blue?style=for-the-badge&logo=microsoft-azure)](https://azure.microsoft.com/)
 [![DIO](https://img.shields.io/badge/DIO-Bootcamp-orange?style=for-the-badge)](https://dio.me/)
