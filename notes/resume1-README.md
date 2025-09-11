@@ -76,7 +76,11 @@ Aqui você encontrará resumos organizados, conceitos fundamentais e anotações
 
 ### 📸 Mapas Mentais e Resumos
 
+<<<<<<< HEAD
 ![Resumo Computação em Nuvem](./images/1/images/1/fundamentos-azure.png)
+=======
+![Resumo Computação em Nuvem](./images/fundamentos-azure.png)
+>>>>>>> 554335c1a16ded8f462810e2b5d3470364f248d2
 
 *Mapa mental dos conceitos fundamentais estudados*
 
