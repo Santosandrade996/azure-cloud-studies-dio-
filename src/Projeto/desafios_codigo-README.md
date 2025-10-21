@@ -53,6 +53,9 @@ def descrever_servico(servico):
 print(descrever_servico(entrada))
 ```
 
+Resultado do laboratório:
+![Laboratório do primeiro desafio](../images/projeto_codigos/imagem1.PNG)
+
 ---
 
 ### Desafio 2: Mapeando Tarefas no Azure
@@ -96,6 +99,10 @@ def identificar_recurso(tarefa):
 print(identificar_recurso(entrada))
 ```
 
+Resultado do laboratorio:
+
+![Laboratório segundo desafio](../images/projeto_codigos/imagem2.PNG)
+
 ---
 
 ### Desafio 3: Benefícios da Computação em Nuvem
@@ -138,6 +145,12 @@ def descrever_beneficio(beneficio):
 
 print(descrever_beneficio(entrada))
 ```
+
+Resultado do laboratorio:
+
+![Laboratório segundo desafio](../images/projeto_codigos/imagem2.PNG)
+
+---
 
 ## 🛠️ Tecnologias Utilizadas
 
